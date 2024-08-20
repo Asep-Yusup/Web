@@ -30,13 +30,13 @@
   $ pip install requests
   $ pip install rich
   $ pip install bs4
-  $ git clone https://github.com/Asep-Yusup/Bjorka.git
-  $ cd Bjorka
-  $ python Bjorka.py
+  $ git clone https://github.com/Asep-Yusup/Web.git
+  $ cd Web
+  $ python web.py
   ```
   - Running on Termux
 
   ```
-  $ cd Bjorka
-  $ python Bjorka.py
+  $ cd Web
+  $ python web.py
   ```
